@@ -13,7 +13,8 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/7d437f3e-b276-4463-8026-d8cfdfd32b05"
+      "url": "https://u.expo.dev/7d437f3e-b276-4463-8026-d8cfdfd32b05",
+      "checkAutomatically": "ON_ERROR_RECOVERY"
     },
     "assetBundlePatterns": [
       "**/*"
